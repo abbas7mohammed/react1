@@ -1,0 +1,45 @@
+[
+        {
+            "id" : "1",
+            "title" : "CCNA",
+            "category" : "network",
+            "img" : "images/network.jpg"
+        },
+        {
+            "id" : "2",
+            "title" : "IoT",
+            "category" : "internet of things",
+            "img" : "images/iot.jpg"
+        },
+        {
+            "id" : "3",
+            "title" : "React",
+            "category" : "programming",
+            "img" : "images/react.png"
+        },
+        {
+            "id" : "4",
+            "title" : "Maintinance",
+            "category" : "hardware",
+            "img" : "images/hardware.jpg"
+        },
+        {
+            "id" : "5",
+            "title" : "Google Cloud",
+            "category" : "cloud computing",
+            "img" : "images/google.jpg"
+        },
+        {
+            "id" : "6",
+            "title" : "Flutter",
+            "category" : "programming",
+            "img" : "images/flutter.jpg"
+        },
+        {
+            "id" : "7",
+            "title" : "Arduino",
+            "category" : "controller",
+            "img" : "images/arduino.jpg"
+        }
+
+]

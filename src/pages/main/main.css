@@ -1,0 +1,37 @@
+.main{
+    display: flex;
+}
+.mainLeft{
+    height: 600px;
+    width: 100%;
+}
+.mainRight{
+    background-image: url("cover.jpg");
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+     background-size: cover;
+    height: 600px;
+    width: 100%;
+}
+.coverItems{   
+    padding-top: 230px;
+    color: snow;
+}
+.mainSearch{
+    background-color: snow;
+    font-size: 20px;
+    width: 500px;
+    opacity: .9;
+}
+.bookSection{
+    background-color: rgba(240, 240, 240, 0.466);
+    display: flex;
+    justify-content: center;
+    padding: 60px;
+}
+.bookSection>div{
+    padding: 20px;
+}
+
